@@ -1,0 +1,11 @@
+.apps3 {
+    width: 1400px;
+    background: rgba(247, 246, 242, 1);
+    height: 380px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-left: 200px;
+    margin-top: 100px;
+}

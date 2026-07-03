@@ -1,0 +1,76 @@
+.apps1 {
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+.apps1-first-text {
+    font-size: 48px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+.apps1-second-text {
+    font-size: 16px;
+    font-weight: 400;
+    color: rgba(98,115,130,1);
+}
+
+.card {
+    background-color: white;
+    height: 270px;
+    width: 310px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    border: none;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    border-radius: 10px;
+}
+
+
+.card-image-holder {
+    background-color: rgba(249, 85, 85, 1);
+    height: 60px;
+    width: 60px;
+    border-radius: 60px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.card-image {
+    height: 30px;
+    padding-top: 15px;
+}
+
+.card-text-1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    text-align: center;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-weight: 500;
+}
+
+.card-text-2 {
+    font-size: 16px;
+    color: rgba(98,115,130,1);
+    text-align: center;
+    font-weight: 400;
+    margin-top: 5px;
+    padding-left: 20px;
+    padding-right: 9px;
+    line-height: 20px;
+}
+
+.card-container {
+    display: grid;
+    grid-template-columns: 310px 310px 310px 310px;
+    column-gap: 50px;
+    margin-left: 200px;
+    margin-bottom: 150px;
+}

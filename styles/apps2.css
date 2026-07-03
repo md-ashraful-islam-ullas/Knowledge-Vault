@@ -1,0 +1,26 @@
+.apps2 {
+    display: flex;
+    width: 1050px;
+    margin-left: 200px;
+}
+
+.apps2-second-div {
+    padding-left: 70px;
+    padding-top: 100px;
+}
+
+.CheckCircle-text {
+    display: inline;
+    padding-left: 10px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.solution-div {
+    display: flex;
+    align-items: center;
+}
+
+.CheckCircle {
+    height: 24px;
+}

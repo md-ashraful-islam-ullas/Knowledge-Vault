@@ -1,0 +1,41 @@
+.top-navigation {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: white;
+    z-index: 100;
+}
+
+.left-section {
+    margin-left: 100px;
+}
+
+.middle-section {
+    display: flex;
+    justify-content: space-between;
+    width: 365px;
+}
+
+.right-section {
+    margin-right: 100px;
+} 
+
+
+.get-early-access {
+    background-color: rgba(70, 145, 101, 1);
+    color: white;
+    padding: 12px 16px;
+    border: none;
+    font-size: 18px;
+    border-radius: 4px;
+}
+
+.logo-navbar {
+    height: 60px;
+    width: 139px;
+}
