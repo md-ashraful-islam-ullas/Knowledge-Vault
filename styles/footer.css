@@ -1,0 +1,26 @@
+.social-media {
+  height: 22px;
+}
+
+
+.footer {
+  background-color: rgba(0, 25, 49, 1);
+  height: 350px;
+  margin-top: 150px;
+}
+
+
+.footer-flex {
+  display: flex;
+  justify-content: space-between;
+  padding-left: 80px;
+  padding-right: 80px;
+  padding-top: 130px;
+}
+
+.social-media-icon {
+  width: 85px;
+  display: flex;
+  justify-content: space-between;
+  padding-top: 10px;
+}
